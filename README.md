@@ -2,5 +2,5 @@
 
 This is the repository sharing the code for the work done on "Investigation of Layer-Wise Speech Representations in Self-Supervised Learning Models: A Cross-Lingual Study in Detecting Depression" which is submitted at INTERSPEECH 2024. 
 
-<span style="font-size:20px;"> Our proposed Method</span>
+<span style="font-size:20px;">__Our proposed Method__</span>
 
