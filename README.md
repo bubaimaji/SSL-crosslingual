@@ -5,9 +5,10 @@ This is the repository sharing the code for the work done on "Investigation of L
 ### **Our proposed Method:** <h3>
 ---
 ![alt text](https://github.com/bubaimaji/SSL-crosslingual/blob/main/images/model.png)
----
+
 ### **Datasets:** <h3>
 ---
 In this cross-lingual depression detection experiment, we used two different language depression datasets (1) [DAIC-WoZ English](https://dcapswoz.ict.usc.edu/) and (2) Indic-Bengali. 
+
 ---
 ### **Requirements:** <h3>
