@@ -12,3 +12,4 @@ In this cross-lingual depression detection experiment, we used two different lan
 
 ---
 ### **Requirements:** <h3>
+See the Requirements.txt file
