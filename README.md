@@ -7,4 +7,4 @@ This is the repository sharing the code for the work done on "Investigation of L
 
 ###__Dataset__
 
-In this experiment, we used two depression datasets (1)[DAIC-WoZ English](https://dcapswoz.ict.usc.edu/) and (2)Indic-Bengali. 
+In this cross-lingual depression detection experiment, we used two different language depression datasets (1)[DAIC-WoZ English](https://dcapswoz.ict.usc.edu/) and (2) Indic-Bengali. 
