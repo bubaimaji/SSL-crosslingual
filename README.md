@@ -15,6 +15,6 @@ In this cross-lingual depression detection experiment, we used two different lan
 See the requirements.txt file
 
 
-### **Requirements:** <h4>
+### **** <h4>
 
 **Note that: currenty this repo contains the initial inverstigation and final implmentation codes of the paper will release soon....
